@@ -1,0 +1,11 @@
+Flask
+pandas
+numpy
+scipy
+plotly
+Flask
+pandas
+numpy
+scipy
+plotly
+gunicorn
